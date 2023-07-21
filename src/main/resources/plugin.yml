@@ -1,0 +1,6 @@
+name: FloodgateSkipAuthme
+version: '${project.version}'
+main: com.iruanp.floodgateskipauthme.FloodgateSkipAuthme
+api-version: '1.20'
+depend:
+  - AuthMe
